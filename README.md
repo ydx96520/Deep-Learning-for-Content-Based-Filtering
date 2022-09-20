@@ -1,0 +1,2 @@
+# Deep-Learning-for-Content-Based-Filtering
+The data set is derived from the MovieLens ml-latest-small dataset. Content-based filtering generates a user and movie feature vector but recognizes there may be other information available about the user and/or movie that may improve the prediction. The additional information is provided to a neural network which then generates the user and movie vector.
